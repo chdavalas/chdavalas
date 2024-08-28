@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chdavalas
 - 👀 I’m interested in Neural Networks, Continual Learning on images, Graph Theory and Algorithms
-- 🌱 I’m constantly learning 
+- 🌱 I’m constantly learning (As everyone should!)
 - 📫 How to reach me: 
       cdavalas@hua.gr, chdavalas@gmail.com
 
